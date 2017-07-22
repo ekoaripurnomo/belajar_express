@@ -1,0 +1,22 @@
+{
+  "name": "belajar_express",
+  "version": "1.0.0",
+  "description": "Belajar membuat web server menggunakan nodejs dan express",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekoaripurnomo/belajar_express.git"
+  },
+  "author": "eko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekoaripurnomo/belajar_express/issues"
+  },
+  "homepage": "https://github.com/ekoaripurnomo/belajar_express#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
